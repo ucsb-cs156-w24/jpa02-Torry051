@@ -1,4 +1,4 @@
-# jpa02-torry051
+# jpa02-Torry051
 
 Repo: https://github.com/ucsb-cs156-w24/jpa02-Torry051
 
